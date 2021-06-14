@@ -1,0 +1,8 @@
+.cardDescription{
+    color: grey;
+    text-align: left;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
